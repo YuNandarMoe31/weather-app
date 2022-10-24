@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+```pm init vue@latest
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+```
+
